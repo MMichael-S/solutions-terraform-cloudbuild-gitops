@@ -1,1 +1,1 @@
-project="PROJECT_ID"
+project="shifei-demo-1"
